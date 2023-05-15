@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         bilibili-app-recommend补丁
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    https://greasyfork.org/zh-CN/scripts/466238-bilibili-app-recommend补丁
+// @version      0.1.1
 // @description  解决安装bilibili-app-recommend脚本后出现两个分类栏
 // @author       MilkSC_
 // @match        https://www.bilibili.com/
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
